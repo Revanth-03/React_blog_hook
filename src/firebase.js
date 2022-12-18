@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId: "react-blog-hook-3dba2",
   storageBucket: "react-blog-hook-3dba2.appspot.com",
   messagingSenderId: "1013721822574",
-  appId: "1:1013721822574:web:799664248f6764868f7d7f"
+  appId: "1:1013721822574:web:799664248f6764868f7d7f",
 };
 
 // Initialize Firebase
